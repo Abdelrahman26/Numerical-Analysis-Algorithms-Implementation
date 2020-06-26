@@ -16,4 +16,4 @@
   
 ## Screenshot
   
-  !![Image of Application](/app.png)
+  !![Image of Application](/app.PNG)
